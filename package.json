@@ -1,0 +1,32 @@
+{
+  "name": "js-quiz-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "bin": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilentProton/js-quiz-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SilentProton/js-quiz-cli/issues"
+  },
+  "homepage": "https://github.com/SilentProton/js-quiz-cli#readme",
+  "dependencies": {
+    "@clack/prompts": "^0.11.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^12.9.4"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
