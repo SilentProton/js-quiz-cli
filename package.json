@@ -1,7 +1,7 @@
 {
   "name": "js-quiz-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "A fun and interactive **JavaScript Quiz** right in your terminal!  \r Test your JavaScript knowledge and see if you can become a **JS Millionaire** 💰",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,7 +9,9 @@
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },
-  "bin": "./index.js",
+  "bin": {
+    "js-quiz-cli": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SilentProton/js-quiz-cli.git"
