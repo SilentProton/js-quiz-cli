@@ -22,8 +22,14 @@ Just run the following command:
 ```bash
 npx '@silent.proton/js-quiz-cli'
 ```
-
 ## 📦 Installation
+
+Install the package with **npm**:
+
+```bash
+npm i '@silent.proton/js-quiz-cli'
+```
+
 Clone the repository and install dependencies:
 
 ```bash
