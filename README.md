@@ -14,6 +14,15 @@ Test your JavaScript knowledge and see if you can become a **JS Millionaire** �
 
 ---
 
+## 🚀 Usage with NPX
+
+You don’t need to install anything globally!  
+Just run the following command:
+
+```bash
+npx '@silent.proton/js-quiz-cli'
+```
+
 ## 📦 Installation
 Clone the repository and install dependencies:
 
